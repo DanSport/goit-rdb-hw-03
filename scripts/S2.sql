@@ -1,0 +1,1 @@
+SELECT AVG(price) AS avr_price, MAX(price) as max_price, MIN(price) as min_price FROM mydb.products;
